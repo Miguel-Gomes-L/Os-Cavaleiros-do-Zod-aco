@@ -92,3 +92,19 @@ footer a {
 #personagens img{
     width: 500px;
 }
+#rodape {
+    background-color: var(--color-02);
+    text-align: center;
+    color:#FFF;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+#rodape a {
+    color: blue;
+    text-decoration: none;
+}
+
+#rodape a:hover {
+    text-decoration: underline;
+}
